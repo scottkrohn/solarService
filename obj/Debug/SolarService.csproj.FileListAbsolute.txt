@@ -1,0 +1,12 @@
+D:\cse445\project3\part2\SolarService\SolarService\bin\SolarService.dll.config
+D:\cse445\project3\part2\SolarService\SolarService\bin\SolarService.dll
+D:\cse445\project3\part2\SolarService\SolarService\bin\SolarService.pdb
+D:\cse445\project3\part2\SolarService\SolarService\obj\Debug\SolarService.csprojResolveAssemblyReference.cache
+D:\cse445\project3\part2\SolarService\SolarService\obj\Debug\SolarService.dll
+D:\cse445\project3\part2\SolarService\SolarService\obj\Debug\SolarService.pdb
+H:\cse445\project3\part2\SolarService\SolarService\bin\SolarService.dll.config
+H:\cse445\project3\part2\SolarService\SolarService\bin\SolarService.dll
+H:\cse445\project3\part2\SolarService\SolarService\bin\SolarService.pdb
+H:\cse445\project3\part2\SolarService\SolarService\obj\Debug\SolarService.csprojResolveAssemblyReference.cache
+H:\cse445\project3\part2\SolarService\SolarService\obj\Debug\SolarService.dll
+H:\cse445\project3\part2\SolarService\SolarService\obj\Debug\SolarService.pdb

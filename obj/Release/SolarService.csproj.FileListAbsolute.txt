@@ -1,0 +1,6 @@
+H:\cse445\project3\part2\SolarService\SolarService\bin\SolarService.dll.config
+H:\cse445\project3\part2\SolarService\SolarService\bin\SolarService.dll
+H:\cse445\project3\part2\SolarService\SolarService\bin\SolarService.pdb
+H:\cse445\project3\part2\SolarService\SolarService\obj\Release\SolarService.csprojResolveAssemblyReference.cache
+H:\cse445\project3\part2\SolarService\SolarService\obj\Release\SolarService.dll
+H:\cse445\project3\part2\SolarService\SolarService\obj\Release\SolarService.pdb
